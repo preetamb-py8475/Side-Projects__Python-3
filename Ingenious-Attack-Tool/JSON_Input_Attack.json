@@ -1,0 +1,23 @@
+{
+  "DUT": [
+    {
+      "Attacks": [
+        {
+          "IP": "a.b.c.d",
+          "CDN_Header": "ch",
+          "CDN_IP": "5.5.5.5",
+          "Host": "host.com",
+          "params_QueryParameters_Param": "wtf",
+          "params_QueryParameters_Value": "cmd.exe",
+          "json_BodyJSON_Param": "jbp",
+          "json_BodyJSON_Value": "cmd.exe",
+          "data_BodyURLEncoded_Param": "dbp",
+          "data_BodyURLEncoded_Value": "cmd.exe",
+          "Request_Type": "http",
+          "HTTP_Method": "gEt",
+          "Attack": "cmd.exe"
+        }
+      ]
+    }
+  ]
+}
