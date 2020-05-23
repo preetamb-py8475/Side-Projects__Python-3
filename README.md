@@ -1,3 +1,5 @@
+![Image](https://pbs.twimg.com/media/DIU3U8gVoAE4wIQ.jpg:large)
+
 
 # Preetam Baruah - Side-Project(s) : Python
 
@@ -6,7 +8,6 @@ Welcome to my GitHub Repository page.
 This page contains Source-Code(s) of my Side-Project(s) in Python. All the Source-Code(s) are Open-Source.
 
 
-##
 ##
 ## Project – Side Project (1)
 ### Programming Language:
@@ -115,5 +116,3 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 	This tool has significant applications in analyzing data points from a graph or pie-chart in Data Science.
 ### GitHub Link:
 - **To view the source-code, click _[here](https://github.com/preetamb-py8475/Side-Projects__Python-3/tree/master/Nearest-Data-Point-Tracker-Tool%20(Data%20Science)/)_**
-
-![image](https://pbs.twimg.com/media/DIU3U8gVoAE4wIQ.jpg:large)
