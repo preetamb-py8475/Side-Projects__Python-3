@@ -1,5 +1,3 @@
-##
-##
 
 # Preetam Baruah - Side-Project(s) : Python
 
@@ -118,5 +116,4 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 ### GitHub Link:
 - **To view the source-code, click _[here](https://github.com/preetamb-py8475/Side-Projects__Python-3/tree/master/Nearest-Data-Point-Tracker-Tool%20(Data%20Science)/)_**
 
-##
-##
+![image](https://pbs.twimg.com/media/DIU3U8gVoAE4wIQ.jpg:large)
