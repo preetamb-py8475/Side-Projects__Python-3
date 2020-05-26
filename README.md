@@ -163,8 +163,8 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 > ---
 >
 >
-> ## Project – Side Project (3)
-> -----------------------------
+> Project – Side Project (3)
+> --------------------------
 >
 >
 > ### Programming Language:
@@ -176,7 +176,7 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 > ### Title:
 >
 >
-> + ***Ingenious Attack Tool***
+> + ***Ingenious Attack Tool (Web Application Security)***
 >
 >
 > ### Summary:
@@ -219,8 +219,8 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 > ---
 >
 >
-> ## Project – Side Project (4)
-> -----------------------------
+> Project – Side Project (4)
+> --------------------------
 >
 >
 > ### Programming Language:
@@ -232,7 +232,7 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 > ### Title:
 >
 >
-> + ***Web-Socket Server Tool (Web-Socket Programming)***
+> + ***Web Socket Server Tool (Web Socket Programming)***
 >
 >
 > ### Summary:
@@ -263,8 +263,8 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 > ---
 >
 >
-> ## Project – Side Project (5)
-> -----------------------------
+> Project – Side Project (5)
+> --------------------------
 >
 >
 > ### Programming Language:
@@ -276,7 +276,7 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 > ### Title:
 >
 >
-> + ***Nearest Data Point Tracker Tool***
+> + ***Nearest Data Point Tracker Tool (Data Analytics + Data Science)***
 >
 >
 > ### Summary:
@@ -295,6 +295,50 @@ This page contains Source-Code(s) of my Side-Project(s) in Python. All the Sourc
 >
 >
 > + **To view the source-code, click *[here](https://github.com/preetamb-py8475/Side-Projects__Python-3/tree/master/Nearest-Data-Point-Tracker-Tool%20(Data%20Science)/)***
+>
+>
+> ---
+
+<br>
+
+
+<br>
+
+> ---
+>
+>
+> Project – Side Project (6)
+> --------------------------
+>
+>
+> ### Programming Language:
+>
+>
+> + ***Python 3 (v3.7.3)***
+>
+>
+> ### Title:
+>
+>
+> + ***Vowel Detector Tool (English Language Learning)***
+>
+>
+> ### Summary:
+>
+>
+> It takes a string from a user. Then it detects and prints the Vowel(s) and the Vowel Position(s) as Index Number(s) in the string. I have used 'Enumerate' method (along with 'List Comprehension') to avoid repeated printing of the first Vowel Position or Index Number for Redundant/Duplicate/Repetitive Vowel(s) found in the user-input string.
+>
+>
+> ### Use Case:
+>
+>
+> This tool has some applications in an Online English Grammar/Learning Web Application which can be used by students, especially non-native English speaking students, in schools and colleges worldwide. It also has significant applications in Online English - Learning Web Applications and Proficiency Tests/Exams like 'IELTS' for international immigration purposes.
+>
+>
+> ### GitHub Link:
+>
+>
+> + **To view the source-code, click *[here](https://github.com/preetamb-py8475/Side-Projects__Python-3/tree/master/Vowel-Detector-Tool/)***
 >
 >
 > ---
