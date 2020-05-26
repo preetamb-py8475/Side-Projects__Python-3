@@ -1,4 +1,7 @@
 ![Image](https://pbs.twimg.com/media/DIU3U8gVoAE4wIQ.jpg:large)
+![Image](https://analyticsindiamag.com/wp-content/uploads/2017/09/neural-network.jpg)
+![Image](https://static.djangoproject.com/img/desktops/djangodesktop-1600x1200.jpg)
+
 
 
 # Preetam Baruah - Side-Project(s) : Python
